@@ -8,7 +8,7 @@ class Student_Name extends Student{
         System.out.println("Student Name=Jayanti");
     }
 }
-class College {
+class college {
     public static void main(String args[]) {
         Student_Name p = new Student_Name();
         p.Fee(); 
